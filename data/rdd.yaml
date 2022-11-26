@@ -1,0 +1,15 @@
+path: /Users/muhammadsuha/datasets/rdd-2022/yolo_JP
+train: train
+val: val
+test: test
+
+names:
+  0: DOO
+  1: D10
+  2: D20
+  3: D40
+
+# Training: it is very simple to train
+# Command: python train.py --img 640 --epochs n --data rdd.yaml --weights yolov5s.pt (for pretraining)
+# I think we could also use the `rect` argument for including the training of rectangular images
+# Need to do some studying on how many epochs are required. 
