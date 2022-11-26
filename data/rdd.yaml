@@ -1,4 +1,4 @@
-path: /Users/muhammadsuha/datasets/rdd-2022/yolo_JP
+path: ../datasets/rdd-2022/yolo_JP
 train: train
 val: val
 test: test
