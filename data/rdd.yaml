@@ -1,7 +1,7 @@
-path: ../datasets/rdd-2022/yolo_JP
-train: train
-val: val
-test: test
+path: /Users/muhammadsuha/datasets/RDD-2022/holdout/yolo_holdout
+train: train2017
+val: val2017
+test: test2017
 
 names:
   0: DOO
